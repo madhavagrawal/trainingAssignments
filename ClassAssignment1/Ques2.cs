@@ -65,7 +65,24 @@ namespace ClassAssignment1
                     string classs = Console.ReadLine(); ;
                     string sem = Console.ReadLine(); ;
                     int[] marks = new int[5];
+                    for(int j=0;j<5;j++)
+                    {
+                        marks[j] = int.Parse(Console.ReadLine());
+                    }
 
+                    test[i] = new Ques2(rolllno, name, classs, sem, marks);
+
+                }
+
+                for(int i=0;i<test.Length;i++)
+                {
+                    Console.WriteLine(test[i].displayResult());
+                }
+
+
+                for (int i = 0; i < test.Length; i++)
+                {
+                    test[i].display();
                 }
             }
         }
