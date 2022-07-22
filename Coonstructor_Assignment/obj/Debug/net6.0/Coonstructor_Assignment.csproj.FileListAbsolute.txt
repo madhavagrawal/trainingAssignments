@@ -1,0 +1,15 @@
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\bin\Debug\net6.0\Coonstructor_Assignment.exe
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\bin\Debug\net6.0\Coonstructor_Assignment.deps.json
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\bin\Debug\net6.0\Coonstructor_Assignment.runtimeconfig.json
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\bin\Debug\net6.0\Coonstructor_Assignment.dll
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\bin\Debug\net6.0\Coonstructor_Assignment.pdb
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.csproj.AssemblyReference.cache
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.AssemblyInfoInputs.cache
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.AssemblyInfo.cs
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.csproj.CoreCompileInputs.cache
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.dll
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\refint\Coonstructor_Assignment.dll
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.pdb
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\Coonstructor_Assignment.genruntimeconfig.cache
+C:\jpmc-codebase\assignments\Coonstructor_Assignment\obj\Debug\net6.0\ref\Coonstructor_Assignment.dll
