@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\jpmc-codebase\\assignments\\StringAssignment\\StringAssignment.csproj": {}
+    "C:\\jpmc-codebase\\assignments\\PropertiesAssignment\\PropertiesAssignment.csproj": {}
   },
   "projects": {
-    "C:\\jpmc-codebase\\assignments\\StringAssignment\\StringAssignment.csproj": {
+    "C:\\jpmc-codebase\\assignments\\PropertiesAssignment\\PropertiesAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\jpmc-codebase\\assignments\\StringAssignment\\StringAssignment.csproj",
-        "projectName": "StringAssignment",
-        "projectPath": "C:\\jpmc-codebase\\assignments\\StringAssignment\\StringAssignment.csproj",
+        "projectUniqueName": "C:\\jpmc-codebase\\assignments\\PropertiesAssignment\\PropertiesAssignment.csproj",
+        "projectName": "PropertiesAssignment",
+        "projectPath": "C:\\jpmc-codebase\\assignments\\PropertiesAssignment\\PropertiesAssignment.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\jpmc-codebase\\assignments\\StringAssignment\\obj\\",
+        "outputPath": "C:\\jpmc-codebase\\assignments\\PropertiesAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

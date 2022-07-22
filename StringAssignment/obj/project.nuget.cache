@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGeOi2p1PXoIVUCxuu2GdrEVF+n1RDB1FMW9jT2gqa8F+vn+Nw1SGkiigaVt8P0RCnmQhzx9I3Tutx4vWgwCsA==",
+  "dgSpecHash": "ZEXVKRJ2cdiHSEIJdYmI+e226TXwNYt7XYDFQnl2WBxIUGzeTq0tFk2APYzBP41dVK8Pys7oQ2tDPEY+jjmy9Q==",
   "success": true,
-  "projectFilePath": "C:\\jpmc-codebase\\C#\\HandsOn\\StringAssignment\\StringAssignment.csproj",
+  "projectFilePath": "C:\\jpmc-codebase\\assignments\\StringAssignment\\StringAssignment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

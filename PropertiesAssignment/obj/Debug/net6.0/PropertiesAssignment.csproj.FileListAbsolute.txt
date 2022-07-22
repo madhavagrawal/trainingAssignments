@@ -1,0 +1,15 @@
+C:\jpmc-codebase\assignments\PropertiesAssignment\bin\Debug\net6.0\PropertiesAssignment.exe
+C:\jpmc-codebase\assignments\PropertiesAssignment\bin\Debug\net6.0\PropertiesAssignment.deps.json
+C:\jpmc-codebase\assignments\PropertiesAssignment\bin\Debug\net6.0\PropertiesAssignment.runtimeconfig.json
+C:\jpmc-codebase\assignments\PropertiesAssignment\bin\Debug\net6.0\PropertiesAssignment.dll
+C:\jpmc-codebase\assignments\PropertiesAssignment\bin\Debug\net6.0\PropertiesAssignment.pdb
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.csproj.AssemblyReference.cache
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.AssemblyInfoInputs.cache
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.AssemblyInfo.cs
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.csproj.CoreCompileInputs.cache
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.dll
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\refint\PropertiesAssignment.dll
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.pdb
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\PropertiesAssignment.genruntimeconfig.cache
+C:\jpmc-codebase\assignments\PropertiesAssignment\obj\Debug\net6.0\ref\PropertiesAssignment.dll
