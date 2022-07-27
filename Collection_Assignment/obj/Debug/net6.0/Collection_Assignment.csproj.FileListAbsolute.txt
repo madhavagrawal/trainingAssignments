@@ -1,0 +1,15 @@
+C:\jpmc-codebase\assignments\Collection_Assignment\bin\Debug\net6.0\Collection_Assignment.exe
+C:\jpmc-codebase\assignments\Collection_Assignment\bin\Debug\net6.0\Collection_Assignment.deps.json
+C:\jpmc-codebase\assignments\Collection_Assignment\bin\Debug\net6.0\Collection_Assignment.runtimeconfig.json
+C:\jpmc-codebase\assignments\Collection_Assignment\bin\Debug\net6.0\Collection_Assignment.dll
+C:\jpmc-codebase\assignments\Collection_Assignment\bin\Debug\net6.0\Collection_Assignment.pdb
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.csproj.AssemblyReference.cache
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.AssemblyInfoInputs.cache
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.AssemblyInfo.cs
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.csproj.CoreCompileInputs.cache
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.dll
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\refint\Collection_Assignment.dll
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.pdb
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\Collection_Assignment.genruntimeconfig.cache
+C:\jpmc-codebase\assignments\Collection_Assignment\obj\Debug\net6.0\ref\Collection_Assignment.dll
