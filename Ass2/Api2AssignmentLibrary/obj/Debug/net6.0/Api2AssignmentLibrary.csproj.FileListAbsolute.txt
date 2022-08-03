@@ -1,0 +1,12 @@
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\bin\Debug\net6.0\Api2AssignmentLibrary.deps.json
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\bin\Debug\net6.0\Api2AssignmentLibrary.dll
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\bin\Debug\net6.0\Api2AssignmentLibrary.pdb
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.csproj.AssemblyReference.cache
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.AssemblyInfoInputs.cache
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.AssemblyInfo.cs
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.dll
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\refint\Api2AssignmentLibrary.dll
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\Api2AssignmentLibrary.pdb
+C:\Users\MAgrawal\OneDrive - Affinion Group\Desktop\training\practice api\Ass2\Api2AssignmentLibrary\obj\Debug\net6.0\ref\Api2AssignmentLibrary.dll
